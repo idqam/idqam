@@ -4,4 +4,4 @@ idqam/idqam is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 
-Hi! Im Owen Villareal, I'm a software engineer passionate about all things code and building. I mainly work as a full-stack web dev but always looking to tinker and learn in other areas. 
+Hi! Im Owen Villareal, I'm a software engineer mainly focused on backend systems but always delving curiously into other aspects of software. Currently using Go, Python, and the React & TS/JS ecosystem to develop. 
